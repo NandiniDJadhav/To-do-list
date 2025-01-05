@@ -77,13 +77,13 @@ project-folder
 ## Screenshots
 
 ### Home Screen
-![Home Screen](assets/home-screen.png)
+![Screenshot 2025-01-05 181613](https://github.com/user-attachments/assets/13b209f9-7c8f-4652-aff8-87435984a7c1)
 
 ### Adding Tasks
-![Adding Tasks](assets/adding-tasks.png)
+![Screenshot 2025-01-05 181721](https://github.com/user-attachments/assets/1e7ba42b-c30e-4ce4-a88d-0de46ecd0a53)
 
 ### Deleting Tasks
-![Deleting Tasks](assets/deleting-tasks.png)
+![Screenshot 2025-01-05 181737](https://github.com/user-attachments/assets/9cbf7a58-1852-4b04-84fe-f982cd8bfb52)
 
 ---
 
